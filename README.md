@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Biglass611
+- 👋 Hi, I’m Lucas Nunes
 - 👀 I’m interested in CC and Games
 - 🌱 I’m currently learning HTML,CSS,PYTHON,javascript
 - 💞️ I’m looking to collaborate on ...
